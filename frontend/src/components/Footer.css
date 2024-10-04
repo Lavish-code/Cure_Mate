@@ -1,0 +1,15 @@
+/* Footer.css */
+.contact-info {
+    color: #000000; /* Text color for contact info */
+    text-decoration: none; /* Remove underline from links */
+  }
+  
+  .contact-info:hover {
+    color: #007BFF; /* Text color on hover */
+  }
+  
+  .contact-icon {
+    color: #007BFF; /* Icon color */
+    margin-right: 8px; /* Space between icon and text */
+  }
+  
